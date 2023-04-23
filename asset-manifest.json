@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/marketstock/static/css/main.604fcc1b.css",
+    "main.js": "/marketstock/static/js/main.181724d0.js",
+    "static/media/logo.jpg": "/marketstock/static/media/logo.5def82db39d59636e2e3.jpg",
+    "index.html": "/marketstock/index.html",
+    "main.604fcc1b.css.map": "/marketstock/static/css/main.604fcc1b.css.map",
+    "main.181724d0.js.map": "/marketstock/static/js/main.181724d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.604fcc1b.css",
+    "static/js/main.181724d0.js"
+  ]
+}
